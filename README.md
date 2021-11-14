@@ -30,6 +30,9 @@
 - Allameh Tabataba'i University (Aug 2020 – Feb 2021)  
     Tasked with organization and management of a research team of 6 undergraduate and graduate students
 
+#### Publication
+   Malfuzi, A. & Mehr, A.S. & Rosen, Marc A. & Alharthi, M. & Kurilova, A.A., 2020. "Economic viability of bitcoin mining using a renewable-based SOFC power system to supply the electrical power demand," Energy, Elsevier, vol. 203(C).
+
 #### Education
 
 - Simon Fraser University (2021 – 2022)
@@ -59,10 +62,10 @@ English
 Full professional proficiency
 
 Persian  
-Native or bilingual proficiency
+Native
 
 Azerbaijani  
-Native or bilingual proficiency
+Native
 
 #### Test Scores
 
@@ -70,10 +73,6 @@ GRE General Test (Dec 2020)
 Verbal Reasoning: 157  
 Quantitative Reasoning: 163  
 
-TOEFL iBT Nov 2020Nov 2020  115
-
-DescriptionReading:30
-Listening: 29
-Speaking: 28
-Writing: 28
+TOEFL iBT (Nov 2020)  
+Overall: 115 (Reading: 30, Listening: 29, Speaking: 28, Writing: 28)
 
