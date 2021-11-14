@@ -1,7 +1,7 @@
 # Ata Malfuzi
 #### M.A. in Economics at Simon Fraser University (SFU)
 
-[Email](ata_malfuzi@sfu.ca) / [LinkedIn](https://www.linkedin.com/in/ata-malfuzi/)
+[Email](ata_malfuzi@sfu.ca) / [LinkedIn](https://www.linkedin.com/in/ata-malfuzi/) / [GitHub](https://github.com/AtaMal)
 
 ## Experience
 
