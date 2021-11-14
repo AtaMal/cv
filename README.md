@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Ata Malfuzi
+##### M.A. in Economics at Simon Fraser University (SFU)
 
-You can use the [editor on GitHub](https://github.com/AtaMal/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Email](ata_malfuzi@sfu.ca) | [LinkedIn](https://www.linkedin.com/in/ata-malfuzi/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+#### Teaching Assistant
 
-### Markdown
+- Simon Fraser University (Sep 2021 – Present)  
+    International Trade - Undergraduate (Sep 2021 - Present)
+    
+- Allameh Tabataba'i University (Feb 2020 – Jul 2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    Managerial Economics - Undergraduate (Feb 2020 - July 2021)  
+    Financial Markets and Institutions - Graduate (Feb 2020 - Feb 2021)  
+    Economics of Money and Banking - Undergraduate (Feb 2020 - July 2020) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Instructor  
+- Allameh Tabataba'i University (Feb 2021 – Mar 2021)  
+    Blockchain Concepts and Cryptocurrency Trading
 
-- Bulleted
-- List
+- Ripple Financial Consultants (Jan 2020 – Jun 2021)  
+    Taught courses for beginner and advanced traders including:  
+      - Basics of Blockchains & Cryptocurrencies  
+      - Advanced Cryptocurrency Trading   
 
-1. Numbered
-2. List
+#### Graduate Research Assistant  
+- Allameh Tabataba'i University (Aug 2020 – Feb 2021)  
+    Tasked with organization and management of a research team of 6 undergraduate and graduate students
 
-**Bold** and _Italic_ and `Code` text
+#### Education
+- Simon Fraser University (2021 – 2022)
+  M.A. in Economics 
 
-[Link](url) and ![Image](src)
-```
+- Allameh Tabataba'i University (2018 – 2021)  
+  M.A. in Theoretical Economics  
+    Thesis Title: "Welfare Analysis of Proof of Work Algorithms for Cryptocurrencies: Case Study of Ethereum"
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Payame Noor University (2013 – 2017)
+  B.Sc. in Mechanical Engineering  
+    Final Project: "Thermoeconomic Analysis of Simultaneous Heat and Electricity Generation Systems Based on The Internal Combustion Engine With Fuel Diversity in Iran"
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AtaMal/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Languages
 
-### Support or Contact
+English  
+Full professional proficiency
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Persian  
+Native or bilingual proficiency
+
+Azerbaijani  
+Native or bilingual proficiency
+
