@@ -1,9 +1,10 @@
 # Ata Malfuzi
-##### M.A. in Economics at Simon Fraser University (SFU)
+#### M.A. in Economics at Simon Fraser University (SFU)
 
-[Email](ata_malfuzi@sfu.ca) | [LinkedIn](https://www.linkedin.com/in/ata-malfuzi/)
+[Email](ata_malfuzi@sfu.ca) / [LinkedIn](https://www.linkedin.com/in/ata-malfuzi/)
 
 ## Experience
+
 #### Teaching Assistant
 
 - Simon Fraser University (Sep 2021 – Present)  
@@ -30,6 +31,7 @@
     Tasked with organization and management of a research team of 6 undergraduate and graduate students
 
 #### Education
+
 - Simon Fraser University (2021 – 2022)
   M.A. in Economics 
 
@@ -41,6 +43,15 @@
   B.Sc. in Mechanical Engineering  
     Final Project: "Thermoeconomic Analysis of Simultaneous Heat and Electricity Generation Systems Based on The Internal Combustion Engine With Fuel Diversity in Iran"
 
+#### Honors & Awards
+
+Special Graduate Entrance Scholarship (SGES) (Sep 2021)  
+Simon Fraser University  
+The Special Graduate Entrance Scholarship (SGES) is intended primarily as a means of recruiting outstanding applicants for admission.
+
+Top Researcher (Dec 2020)  
+Allameh Tabataba'i University - Faculty of Economics  
+Awarded annually to only one student among MA students of the Faculty of Economics based on their researches, publications, and projects.
 
 #### Languages
 
@@ -52,4 +63,17 @@ Native or bilingual proficiency
 
 Azerbaijani  
 Native or bilingual proficiency
+
+#### Test Scores
+
+GRE General Test (Dec 2020)  
+Verbal Reasoning: 157  
+Quantitative Reasoning: 163  
+
+TOEFL iBT Nov 2020Nov 2020  115
+
+DescriptionReading:30
+Listening: 29
+Speaking: 28
+Writing: 28
 
