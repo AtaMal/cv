@@ -11,7 +11,7 @@
   M.A. in Theoretical Economics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;(Sep 2018 – Jul 2021)  
 
 - Payame Noor University  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;Tabriz, Iran  
-  B.Sc. in Mechanical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;(Feb 2012 – Jul 2018)
+  B.Sc. in Mechanical Engineering &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;(Feb 2012 – Jul 2018)
   
 ## Experience
 
