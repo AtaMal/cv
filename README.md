@@ -22,7 +22,7 @@
    - Designed assignments, set the deadlines, graded, and gave feedback to the students to maximize learning and assess students. 
 
     
-- Allameh Tabataba'i University (Feb 2020 – Jul 2021)
+- Allameh Tabataba'i University | (Feb 2020 – Jul 2021) |
 
     Managerial Economics - Undergraduate (Feb 2020 - July 2021)  
     Financial Markets and Institutions - Graduate (Feb 2020 - Feb 2021)  
