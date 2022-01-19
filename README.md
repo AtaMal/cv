@@ -7,11 +7,11 @@
 - Simon Fraser University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Burnaby, BC  
   M.A. in Economics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Sep 2021 - Present) 
 
-- Allameh Tabataba'i University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;Tehran, Iran  
-  M.A. in Theoretical Economics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; (Sep 2018 – Jul 2021)  
+- Allameh Tabataba'i University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Tehran, Iran  
+  M.A. in Theoretical Economics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;(Sep 2018 – Jul 2021)  
 
-- Payame Noor University  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; Tabriz, Iran  
-  B.Sc. in Mechanical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; (Feb 2012 – Jul 2018)
+- Payame Noor University  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;Tabriz, Iran  
+  B.Sc. in Mechanical Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;(Feb 2012 – Jul 2018)
   
 ## Experience
 
