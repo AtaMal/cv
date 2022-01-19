@@ -4,8 +4,8 @@
 [Email](ata_malfuzi@sfu.ca) \ [LinkedIn](https://www.linkedin.com/in/ata-malfuzi/) \ [GitHub](https://github.com/AtaMal)
 
 ## Education
-- Simon Fraser University &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &nbsp; &nbsp; &nbsp; Burnaby, BC  
-  M.A. in Economics &emsp; &emsp; &emsp;  &emsp;  &emsp; &nbsp; &nbsp; &nbsp; (Sep 2021 - Present) 
+- Simon Fraser University &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Burnaby, BC  
+  M.A. in Economics &emsp; &emsp; &emsp;  &emsp;  &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Sep 2021 - Present) 
 
 - Allameh Tabataba'i University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp;Tehran, Iran  
   M.A. in Theoretical Economics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; (Sep 2018 – Jul 2021)  
