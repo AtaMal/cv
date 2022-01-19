@@ -15,8 +15,8 @@
   
 ## Experience
 
- - Simon Fraser University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Burnaby, BC  
-   Teaching Assistant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Sep 2021 - Present)   
+ - Simon Fraser University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Burnaby, BC  
+  Teaching Assistant &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Sep 2021 - Present)    
    - Coordinated with the main instructor in the International Trade course to deliver tutorials, hold office hours, invigilate, and grade exams, resulting in total student satisfaction with the course. 
    - Clarified the organization and grading scheme of the course during one-on-one meetings with students to decrease potential confusion and increase teaching efficiency. 
    - Designed assignments, set the deadlines, graded, and gave feedback to the students to maximize learning and assess students. 
